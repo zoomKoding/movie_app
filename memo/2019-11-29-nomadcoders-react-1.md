@@ -27,7 +27,14 @@ React는 다 컴포넌트로 구성되어 있다.
 컴포넌트는 html을 return하는 함수이다.
 react는 component를 사용해서 HTML처럼 작성하려 할 때 필요하다.
 
-이런 Javascript와 HTML의 조합을 **jsx**라고 부른다.(react에서 소개한 개념이다.)
+이런 Javascript와 HTML의 조합을 **jsx**라고 부른다.(react에서 소개한 개념이다.) 쉽게 말해 HTML in Javascript이다.
 
-쉽게 말해 HTML in Javascript이다.
+React의 Component에 property에 해당하는 값을 전달해줄 수도 있다.
+그걸 쓰기 위해서는 html에서 {}를 사용해서 받으면 된다.
+
+Component는 무조건 대문자로 시작!
+
+동적으로 데이터를 띄워주기 위해서는 map을 사용하면 된다.
+
+map을 이용하면 array 가져가서 array를 이용한 무언가를 리턴한다.
 
