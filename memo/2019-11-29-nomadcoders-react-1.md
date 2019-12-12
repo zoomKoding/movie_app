@@ -39,3 +39,24 @@ Component는 무조건 대문자로 시작!
 map을 이용하면 array 가져가서 array를 이용한 무언가를 리턴한다.
 
 **그리고 이 때 react component는 모두 달라야한다.** 이를 위해 각각의 정보에 유니크한 key값을 넣어준다. 그리고 key값을 알려줘야한다.
+
+prop에 어떤 값이 들어왔을 때 이게 type에 맞게 들어왔는지 확인해줄 필요가 있다.
+
+propType을 정의해주면서 데이터가 어떤식으로 들어와야하는지 type과 꼭 들어와야하는지 정할 수 있다. **이 때 이름은 반드시 propType으로 해줘야 한다.**
+
+## React Class Component
+
+
+Class component에서의 state의 의미
+render 함수
+
+state를 바꾸는 방법
+setState 사용법
+
+React Component의 life cycle을 이해해야해
+
+api
+axios
+async await
+
+map 함수 사용법
