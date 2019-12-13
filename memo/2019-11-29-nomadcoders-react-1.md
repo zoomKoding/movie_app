@@ -53,10 +53,21 @@ render 함수
 state를 바꾸는 방법
 setState 사용법
 
-React Component의 life cycle을 이해해야해
+React Component의 life cycle을 이해하기
 
 api
 axios
 async await
 
 map 함수 사용법
+
+responsive한 웹만들기
+
+gh_page
+
+react-router-dom
+hash-router
+browserrouter(not good for github page)
+link & router
+link는 반드시 router 안에 있어야 한다.
+Route and Props 
